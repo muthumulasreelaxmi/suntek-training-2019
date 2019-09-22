@@ -1,0 +1,5 @@
+s=input("string")
+begin=input("enter")
+end=input("enter")
+for x in s:
+    print(s[begin:end])

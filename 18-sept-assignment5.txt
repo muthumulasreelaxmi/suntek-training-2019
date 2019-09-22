@@ -1,0 +1,6 @@
+s=input("enter substring")
+s1=input("enter string")
+if s in s1:
+     print("yes")
+else
+     printf("no")
